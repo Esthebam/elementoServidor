@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../simuladorMundial/eis_201801c_tp_grupal.iml" filepath="$PROJECT_DIR$/../simuladorMundial/eis_201801c_tp_grupal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simuladorMundialServidor.iml" filepath="$PROJECT_DIR$/simuladorMundialServidor.iml" />
+    </modules>
+  </component>
+</project>
